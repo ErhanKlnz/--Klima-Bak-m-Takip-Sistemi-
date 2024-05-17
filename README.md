@@ -8,6 +8,8 @@ The system, built on a breadboard, monitors the cleanliness of the air filters i
 The dust sensor measures air quality to detect filter clogging. The ESP32 analyzes the data from the sensor and sends status notifications to the user, 
 issuing an alert when it's time for maintenance. This ensures that the air conditioning systems operate efficiently and healthily.
 
+![untitled_sketch_bb_ByIh5u0VXi](https://github.com/ErhanKlnz/Air-Conditioning-Maintenance-Tracking-System-/assets/105871419/6adbc223-8dd9-4686-9de0-04a808bafb2b)
+
 
 
 
